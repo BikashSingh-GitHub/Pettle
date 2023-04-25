@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Pettle/static/css/main.eb11fde7.css",
+    "main.js": "/Pettle/static/js/main.6f5ea826.js",
+    "index.html": "/Pettle/index.html",
+    "main.eb11fde7.css.map": "/Pettle/static/css/main.eb11fde7.css.map",
+    "main.6f5ea826.js.map": "/Pettle/static/js/main.6f5ea826.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb11fde7.css",
+    "static/js/main.6f5ea826.js"
+  ]
+}
